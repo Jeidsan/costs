@@ -1,0 +1,63 @@
+{
+  "projects": [
+    {
+      "name": "Teste de desenvolvimentos",
+      "budget": "1200",
+      "category": {
+        "id": "3",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1100,
+      "services": [
+        {
+          "name": "Serviço de teste",
+          "cost": "100",
+          "description": "Serviço de teste",
+          "id": "80a6373b-6966-4cf6-93bd-3b4598695616"
+        },
+        {
+          "name": "Testetst",
+          "cost": "500",
+          "description": "120",
+          "id": "dd5bb574-faa4-4a65-8709-6420a33ce4fb"
+        },
+        {
+          "name": "Testetst2",
+          "cost": "500",
+          "description": "120",
+          "id": "e7043ba2-a1f0-4d44-9841-294819c46d2a"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Teste r",
+      "budget": "566",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
